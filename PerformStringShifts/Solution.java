@@ -1,3 +1,4 @@
+
 class Solution {
     public String stringShift(String s, int[][] shift) {
         for (int i=0;i<shift.length;i++){
